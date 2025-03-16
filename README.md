@@ -25,6 +25,6 @@ A web-based application to manage student records and data persistence using loc
 - Ayush Tiwari
 
 ## GitHub Repository
-[Link to GitHub Repository](<repository-url>)
+[Link to GitHub Repository](https://github.com/ayuuusssh/Students_Registration_System.git)
 
 Explore, use, and contribute!
